@@ -1,0 +1,11 @@
+﻿Build started...
+1>------ Build started: Project: BSMWeb, Configuration: Debug Any CPU ------
+1>C:\Users\oscar\Dropbox\AA_IFA_Dev_Folder\BSM_FILES_28062020\SQL Project\BSM FILES\BSMWeb\Controllers\DepartmentTypesController.cs(17,19,17,27): warning CS0169: The field 'DepartmentTypesController.employee' is never used
+1>C:\Users\oscar\Dropbox\AA_IFA_Dev_Folder\BSM_FILES_28062020\SQL Project\BSM FILES\BSMWeb\Controllers\SkillsController.cs(15,19,15,27): warning CS0169: The field 'SkillsController.employee' is never used
+1>C:\Users\oscar\Dropbox\AA_IFA_Dev_Folder\BSM_FILES_28062020\SQL Project\BSM FILES\BSMWeb\Controllers\TrainingStatusController.cs(14,19,14,27): warning CS0169: The field 'TrainingStatusController.employee' is never used
+1>C:\Users\oscar\Dropbox\AA_IFA_Dev_Folder\BSM_FILES_28062020\SQL Project\BSM FILES\BSMWeb\Controllers\PeriodicitiesController.cs(18,19,18,27): warning CS0169: The field 'PeriodicitiesController.employee' is never used
+1>C:\Users\oscar\Dropbox\AA_IFA_Dev_Folder\BSM_FILES_28062020\SQL Project\BSM FILES\BSMWeb\Controllers\JobTitlesController.cs(14,19,14,27): warning CS0169: The field 'JobTitlesController.employee' is never used
+1>C:\Users\oscar\Dropbox\AA_IFA_Dev_Folder\BSM_FILES_28062020\SQL Project\BSM FILES\BSMWeb\Controllers\EmployeesController.cs(22,19,22,27): warning CS0169: The field 'EmployeesController.employee' is never used
+1>C:\Users\oscar\Dropbox\AA_IFA_Dev_Folder\BSM_FILES_28062020\SQL Project\BSM FILES\BSMWeb\Controllers\DepartmentsController.cs(21,19,21,27): warning CS0169: The field 'DepartmentsController.employee' is never used
+1>  BSMWeb -> C:\Users\oscar\Dropbox\AA_IFA_Dev_Folder\BSM_FILES_28062020\SQL Project\BSM FILES\BSMWeb\bin\BSMWeb.dll
+========== Build: 1 succeeded, 0 failed, 1 up-to-date, 0 skipped ==========
